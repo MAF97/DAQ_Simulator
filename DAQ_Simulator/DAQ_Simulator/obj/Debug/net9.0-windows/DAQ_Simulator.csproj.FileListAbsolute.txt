@@ -1,0 +1,16 @@
+D:\C#\2\DAQ_Simulator\DAQ_Simulator\bin\Debug\net9.0-windows\DAQ_Simulator.exe
+D:\C#\2\DAQ_Simulator\DAQ_Simulator\bin\Debug\net9.0-windows\DAQ_Simulator.deps.json
+D:\C#\2\DAQ_Simulator\DAQ_Simulator\bin\Debug\net9.0-windows\DAQ_Simulator.runtimeconfig.json
+D:\C#\2\DAQ_Simulator\DAQ_Simulator\bin\Debug\net9.0-windows\DAQ_Simulator.dll
+D:\C#\2\DAQ_Simulator\DAQ_Simulator\bin\Debug\net9.0-windows\DAQ_Simulator.pdb
+D:\C#\2\DAQ_Simulator\DAQ_Simulator\obj\Debug\net9.0-windows\DAQ_Simulator.Form1.resources
+D:\C#\2\DAQ_Simulator\DAQ_Simulator\obj\Debug\net9.0-windows\DAQ_Simulator.csproj.GenerateResource.cache
+D:\C#\2\DAQ_Simulator\DAQ_Simulator\obj\Debug\net9.0-windows\DAQ_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2\DAQ_Simulator\DAQ_Simulator\obj\Debug\net9.0-windows\DAQ_Simulator.AssemblyInfoInputs.cache
+D:\C#\2\DAQ_Simulator\DAQ_Simulator\obj\Debug\net9.0-windows\DAQ_Simulator.AssemblyInfo.cs
+D:\C#\2\DAQ_Simulator\DAQ_Simulator\obj\Debug\net9.0-windows\DAQ_Simulator.csproj.CoreCompileInputs.cache
+D:\C#\2\DAQ_Simulator\DAQ_Simulator\obj\Debug\net9.0-windows\DAQ_Simulator.dll
+D:\C#\2\DAQ_Simulator\DAQ_Simulator\obj\Debug\net9.0-windows\refint\DAQ_Simulator.dll
+D:\C#\2\DAQ_Simulator\DAQ_Simulator\obj\Debug\net9.0-windows\DAQ_Simulator.pdb
+D:\C#\2\DAQ_Simulator\DAQ_Simulator\obj\Debug\net9.0-windows\DAQ_Simulator.genruntimeconfig.cache
+D:\C#\2\DAQ_Simulator\DAQ_Simulator\obj\Debug\net9.0-windows\ref\DAQ_Simulator.dll
